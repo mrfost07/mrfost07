@@ -36,7 +36,12 @@
     <img title="Unreal Engine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40" />
     <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
     <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
+    <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   </p>
+</div>
+
+<!-- 🧰 Tools Table -->
+<div align="center">
   <table>
     <tr>
       <th>🧠 Languages</th>
@@ -48,7 +53,7 @@
       <td>Python, JavaScript, C++, PHP, HTML, CSS</td>
       <td>Django, Flask, React, Node.js</td>
       <td>MySQL, MongoDB</td>
-      <td>Docker, Unreal Engine, Figma</td>
+      <td>Docker, Unreal Engine, Figma, Git</td>
     </tr>
   </table>
 </div>
