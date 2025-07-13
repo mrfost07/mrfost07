@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfost07&label=Profile%20views&color=0e75b6&style=flat" alt="mrfost07" /> </p>
 
-- 🔭 I’m currently working on **my personal ai assistant called 02seven**
+- 🧪 As a Computer Science student, I’m constantly experimenting with **building web applications, APIs, and smart tools** that address real-world challenges.
 
-- 🌱 I’m currently learning **Advanced concepts in Python, especially Object-Oriented Programming (OOP), and diving deeper into artificial intelligence to create even more powerful tools.**
+- 🧰 I’m currently enhancing my skills in **Python, machine learning, database systems, and modern frontend/backend frameworks**.
 
-- 💬 Ask me about **Python, creating interactive GUIs, AI-powered tools, or anything related to project ideas in Computer Science.**
+- 🤝 I love working on **collaborative projects** and enjoy breaking down complex problems into elegant solutions using tech.
 
-- 📫 How to reach me **fostanesmarkrenier@gmail.com**
+- 📬 Feel free to reach out at **fostanesmarkrenier@gmail.com** or visit my portfolio at [fostportfolio.netlify.app](https://fostportfolio.netlify.app) How to reach me **fostanesmarkrenier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
