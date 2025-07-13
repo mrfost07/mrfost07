@@ -37,6 +37,20 @@
     <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
     <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
   </p>
+  <table>
+    <tr>
+      <th>🧠 Languages</th>
+      <th>🛠 Frameworks</th>
+      <th>🗄 Databases</th>
+      <th>🧰 Tools</th>
+    </tr>
+    <tr>
+      <td>Python, JavaScript, C++, PHP, HTML, CSS</td>
+      <td>Django, Flask, React, Node.js</td>
+      <td>MySQL, MongoDB</td>
+      <td>Docker, Unreal Engine, Figma</td>
+    </tr>
+  </table>
 </div>
 
 ---
