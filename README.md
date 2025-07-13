@@ -81,7 +81,3 @@
 
 ---
 
-<p align="center">
-  © 2025 <strong>Mark Renier B. Fostanes</strong>. All rights reserved. <br>
-  <em>Personal GitHub portfolio README built and maintained with ❤️ and code.</em>
-</p>
