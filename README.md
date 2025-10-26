@@ -52,7 +52,7 @@
     <tr>
       <td>Python, JavaScript, C++, PHP, HTML, CSS</td>
       <td>Django, Flask, React, Node.js</td>
-      <td>MySQL, MongoDB</td>
+      <td>MySQL, MongoDB, PostgreSQL</td>
       <td>Docker, Unreal Engine, Figma, Git</td>
     </tr>
   </table>
