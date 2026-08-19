@@ -2,17 +2,17 @@
 
 <!-- 🌐 Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Building%20Software,%20Systems,%20and%20Ideas&fontColor=00FFFF&fontSize=34&fontAlignY=52" alt="Building Software, Systems, and Ideas" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Building%20Software,%20Systems,%20and%20Ideas&fontColor=FFFFFF&fontSize=44&fontAlignY=50" alt="Building Software, Systems, and Ideas" />
 </p>
 
 <!-- ✍️ Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&width=900&height=40&lines=Hi+there%2C+I'm+Mark+Renier+B.+Fostanes+%F0%9F%91%8B;CS+Student+%7C+Full-Stack+Dev+%7C+AI+Enthusiast;Python+%7C+JS+%7C+C%2B%2B+%7C+PHP+%7C+Django+%7C+React+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=45&letterSpacing=2px&lines=Hi+there%2C+I'm+Mark+Renier+B.+Fostanes+%F0%9F%91%8B;CS+Student+%7C+Full-Stack+Dev+%7C+AI+Enthusiast;Python+%7C+JS+%7C+C%2B%2B+%7C+PHP+%7C+Django+%7C+React+%7C+Node.js" alt="Typing SVG" />
 </p>
 
 <!-- 🧮 Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrfost07&label=PROFILE+VIEWS&color=00b7b7&style=for-the-badge&labelColor=161b22" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mrfost07&label=PROFILE+VIEWS&color=30363d&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 </p>
 
 ---
