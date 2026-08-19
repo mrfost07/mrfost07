@@ -20,23 +20,31 @@
 <h3 align="center">🧠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,cpp,php,html,css,react,django,flask,mysql,mongodb,nodejs,unreal,docker,figma,git&theme=dark&perline=8" alt="Python, JavaScript, C++, PHP, HTML, CSS, React, Django, Flask, MySQL, MongoDB, Node.js, Unreal Engine, Docker, Figma, Git" />
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,php,html,css,react,redux,django,flask,nodejs,express,postgres,mysql,sqlite,mongodb,aws,docker,netlify,git,figma,unreal&theme=dark&perline=11" alt="Python, JavaScript, C++, PHP, HTML5, CSS3, React, Redux, Django, Flask, Node.js, Express, PostgreSQL, MySQL, SQLite, MongoDB, AWS, Docker, Netlify, Git, Figma, Unreal Engine" />
 </p>
 
 <!-- 🧰 Tools Table -->
 <div align="center">
   <table>
     <tr>
-      <th align="center" width="250">🧠 Languages</th>
-      <th align="center" width="250">🛠 Frameworks</th>
-      <th align="center" width="250">🗄 Databases</th>
-      <th align="center" width="250">🧰 Tools</th>
+      <th align="center" width="320">🧠 Languages</th>
+      <th align="center" width="320">🎨 Frontend</th>
+      <th align="center" width="320">⚙️ Backend</th>
     </tr>
     <tr>
-      <td align="center">Python, JavaScript, C++, PHP, HTML, CSS</td>
-      <td align="center">Django, Flask, React, Node.js</td>
-      <td align="center">MySQL, MongoDB, PostgreSQL</td>
-      <td align="center">Docker, Unreal Engine, Figma, Git</td>
+      <td align="center">Python, JavaScript (ES6+), C++, PHP, HTML5, CSS3</td>
+      <td align="center">React.js, React Native, Expo, Redux</td>
+      <td align="center">Django, Flask, Node.js / Express, RESTful APIs, JWT Authentication, RBAC, API Integration, Query Optimization</td>
+    </tr>
+    <tr>
+      <th align="center" width="320">🗄 Databases</th>
+      <th align="center" width="320">☁️ Cloud &amp; DevOps</th>
+      <th align="center" width="320">🧰 Tools</th>
+    </tr>
+    <tr>
+      <td align="center">PostgreSQL, MySQL, MongoDB, SQLite</td>
+      <td align="center">AWS (EC2, S3, Lambda, RDS), Docker, Netlify, CI/CD Pipelines, Cloud Computing, Software Deployment, SSL/TLS</td>
+      <td align="center">Git, Figma, Unreal Engine</td>
     </tr>
   </table>
 </div>
@@ -71,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mrfost07&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=8b949e&stroke=1f2733" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=mrfost07&hide_border=true&background=0d1117&stroke=21262d&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=8b949e&dates=8b949e" alt="Contribution Streak" />
 </p>
 
 ---
